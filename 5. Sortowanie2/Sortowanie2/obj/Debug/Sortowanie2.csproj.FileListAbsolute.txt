@@ -1,0 +1,18 @@
+D:\03_Programowanie\C#\Sortowanie2\Sortowanie2\bin\Debug\Sortowanie2.exe.config
+D:\03_Programowanie\C#\Sortowanie2\Sortowanie2\bin\Debug\Sortowanie2.exe
+D:\03_Programowanie\C#\Sortowanie2\Sortowanie2\bin\Debug\Sortowanie2.pdb
+D:\03_Programowanie\C#\Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.csprojResolveAssemblyReference.cache
+D:\03_Programowanie\C#\Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.Form1.resources
+D:\03_Programowanie\C#\Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.Properties.Resources.resources
+D:\03_Programowanie\C#\Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.csproj.GenerateResource.Cache
+D:\03_Programowanie\C#\Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.exe
+D:\03_Programowanie\C#\Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.pdb
+G:\Programowanie Wizualno-obiektowe\5. Sortowanie2\Sortowanie2\bin\Debug\Sortowanie2.exe.config
+G:\Programowanie Wizualno-obiektowe\5. Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.exe
+G:\Programowanie Wizualno-obiektowe\5. Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.pdb
+G:\Programowanie Wizualno-obiektowe\5. Sortowanie2\Sortowanie2\bin\Debug\Sortowanie2.exe
+G:\Programowanie Wizualno-obiektowe\5. Sortowanie2\Sortowanie2\bin\Debug\Sortowanie2.pdb
+G:\Programowanie Wizualno-obiektowe\5. Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.csprojResolveAssemblyReference.cache
+G:\Programowanie Wizualno-obiektowe\5. Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.Form1.resources
+G:\Programowanie Wizualno-obiektowe\5. Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.Properties.Resources.resources
+G:\Programowanie Wizualno-obiektowe\5. Sortowanie2\Sortowanie2\obj\Debug\Sortowanie2.csproj.GenerateResource.Cache

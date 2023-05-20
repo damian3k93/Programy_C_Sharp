@@ -1,0 +1,27 @@
+E:\projekty C#\Stoper\Stoper\bin\Debug\Stoper.exe.config
+E:\projekty C#\Stoper\Stoper\bin\Debug\Stoper.exe
+E:\projekty C#\Stoper\Stoper\bin\Debug\Stoper.pdb
+E:\projekty C#\Stoper\Stoper\obj\Debug\Stoper.csprojResolveAssemblyReference.cache
+E:\projekty C#\Stoper\Stoper\obj\Debug\Stoper.Form1.resources
+E:\projekty C#\Stoper\Stoper\obj\Debug\Stoper.Properties.Resources.resources
+E:\projekty C#\Stoper\Stoper\obj\Debug\Stoper.csproj.GenerateResource.Cache
+E:\projekty C#\Stoper\Stoper\obj\Debug\Stoper.exe
+E:\projekty C#\Stoper\Stoper\obj\Debug\Stoper.pdb
+C:\Users\user\Desktop\Stoper\Stoper\bin\Debug\Stoper.exe.config
+C:\Users\user\Desktop\Stoper\Stoper\obj\Debug\Stoper.exe
+C:\Users\user\Desktop\Stoper\Stoper\obj\Debug\Stoper.pdb
+C:\Users\user\Desktop\Stoper\Stoper\bin\Debug\Stoper.exe
+C:\Users\user\Desktop\Stoper\Stoper\bin\Debug\Stoper.pdb
+C:\Users\user\Desktop\Stoper\Stoper\obj\Debug\Stoper.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Stoper\Stoper\obj\Debug\Stoper.Form1.resources
+C:\Users\user\Desktop\Stoper\Stoper\obj\Debug\Stoper.Properties.Resources.resources
+C:\Users\user\Desktop\Stoper\Stoper\obj\Debug\Stoper.csproj.GenerateResource.Cache
+E:\projekty C#\Stoper - z zapisywaniem\Stoper\bin\Debug\Stoper.exe.config
+E:\projekty C#\Stoper - z zapisywaniem\Stoper\obj\Debug\Stoper.exe
+E:\projekty C#\Stoper - z zapisywaniem\Stoper\obj\Debug\Stoper.pdb
+F:\Stoper - z zapisywaniem\Stoper\bin\Debug\Stoper.exe.config
+F:\Stoper - z zapisywaniem\Stoper\obj\Debug\Stoper.exe
+F:\Stoper - z zapisywaniem\Stoper\obj\Debug\Stoper.pdb
+F:\02_Informatyka\sem5\Programowanie_wizualno-obiektowe\3. Stoper - z zapisywaniem\Stoper\bin\Debug\Stoper.exe.config
+F:\02_Informatyka\sem5\Programowanie_wizualno-obiektowe\3. Stoper - z zapisywaniem\Stoper\obj\Debug\Stoper.exe
+F:\02_Informatyka\sem5\Programowanie_wizualno-obiektowe\3. Stoper - z zapisywaniem\Stoper\obj\Debug\Stoper.pdb

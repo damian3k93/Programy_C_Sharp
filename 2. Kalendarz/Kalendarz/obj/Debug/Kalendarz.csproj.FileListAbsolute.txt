@@ -1,0 +1,18 @@
+E:\projekty C#\Kalendarz\Kalendarz\bin\Debug\Kalendarz.exe.config
+E:\projekty C#\Kalendarz\Kalendarz\bin\Debug\Kalendarz.exe
+E:\projekty C#\Kalendarz\Kalendarz\bin\Debug\Kalendarz.pdb
+E:\projekty C#\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csprojResolveAssemblyReference.cache
+E:\projekty C#\Kalendarz\Kalendarz\obj\Debug\Kalendarz.Form1.resources
+E:\projekty C#\Kalendarz\Kalendarz\obj\Debug\Kalendarz.Properties.Resources.resources
+E:\projekty C#\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csproj.GenerateResource.Cache
+E:\projekty C#\Kalendarz\Kalendarz\obj\Debug\Kalendarz.exe
+E:\projekty C#\Kalendarz\Kalendarz\obj\Debug\Kalendarz.pdb
+G:\Kalendarz\Kalendarz\bin\Debug\Kalendarz.exe.config
+G:\Kalendarz\Kalendarz\obj\Debug\Kalendarz.exe
+G:\Kalendarz\Kalendarz\obj\Debug\Kalendarz.pdb
+G:\Kalendarz\Kalendarz\bin\Debug\Kalendarz.exe
+G:\Kalendarz\Kalendarz\bin\Debug\Kalendarz.pdb
+G:\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csprojResolveAssemblyReference.cache
+G:\Kalendarz\Kalendarz\obj\Debug\Kalendarz.Form1.resources
+G:\Kalendarz\Kalendarz\obj\Debug\Kalendarz.Properties.Resources.resources
+G:\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csproj.GenerateResource.Cache

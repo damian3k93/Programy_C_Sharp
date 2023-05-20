@@ -1,0 +1,41 @@
+D:\03_Programowanie\C#\pingpong\pingpong\bin\Debug\pingpong.exe.config
+D:\03_Programowanie\C#\pingpong\pingpong\obj\Debug\pingpong.csprojResolveAssemblyReference.cache
+D:\03_Programowanie\C#\pingpong\pingpong\obj\Debug\pingpong.Form1.resources
+D:\03_Programowanie\C#\pingpong\pingpong\obj\Debug\pingpong.Properties.Resources.resources
+D:\03_Programowanie\C#\pingpong\pingpong\obj\Debug\pingpong.csproj.GenerateResource.Cache
+D:\03_Programowanie\C#\pingpong\pingpong\bin\Debug\pingpong.exe
+D:\03_Programowanie\C#\pingpong\pingpong\bin\Debug\pingpong.pdb
+D:\03_Programowanie\C#\pingpong\pingpong\obj\Debug\pingpong.exe
+D:\03_Programowanie\C#\pingpong\pingpong\obj\Debug\pingpong.pdb
+F:\Programowanie Wizualno-obiektowe\pingpong\pingpong\bin\Debug\pingpong.exe.config
+F:\Programowanie Wizualno-obiektowe\pingpong\pingpong\obj\Debug\pingpong.exe
+F:\Programowanie Wizualno-obiektowe\pingpong\pingpong\obj\Debug\pingpong.pdb
+F:\Programowanie Wizualno-obiektowe\pingpong\pingpong\bin\Debug\pingpong.exe
+F:\Programowanie Wizualno-obiektowe\pingpong\pingpong\bin\Debug\pingpong.pdb
+F:\Programowanie Wizualno-obiektowe\pingpong\pingpong\obj\Debug\pingpong.csprojResolveAssemblyReference.cache
+F:\Programowanie Wizualno-obiektowe\pingpong\pingpong\obj\Debug\pingpong.Form1.resources
+F:\Programowanie Wizualno-obiektowe\pingpong\pingpong\obj\Debug\pingpong.Properties.Resources.resources
+F:\Programowanie Wizualno-obiektowe\pingpong\pingpong\obj\Debug\pingpong.csproj.GenerateResource.Cache
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\pingpong.exe.config
+G:\7466 Damian Milewski\pingpong\pingpong\obj\Debug\pingpong.exe
+G:\7466 Damian Milewski\pingpong\pingpong\obj\Debug\pingpong.pdb
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\pingpong.exe
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\pingpong.pdb
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\mscorlib.dll
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\System.Data.dll
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\System.Transactions.dll
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\System.EnterpriseServices.dll
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\System.Web.dll
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\System.Data.OracleClient.dll
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\pl\mscorlib.resources.dll
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\normidna.nlp
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\normnfc.nlp
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\normnfd.nlp
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\normnfkc.nlp
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\normnfkd.nlp
+G:\7466 Damian Milewski\pingpong\pingpong\bin\Debug\System.EnterpriseServices.Wrapper.dll
+G:\7466 Damian Milewski\pingpong\pingpong\obj\Debug\ResolveAssemblyReference.cache
+G:\7466 Damian Milewski\pingpong\pingpong\obj\Debug\pingpong.Form1.resources
+G:\7466 Damian Milewski\pingpong\pingpong\obj\Debug\pingpong.Properties.Resources.resources
+G:\7466 Damian Milewski\pingpong\pingpong\obj\Debug\GenerateResource.read.1.tlog
+G:\7466 Damian Milewski\pingpong\pingpong\obj\Debug\GenerateResource.write.1.tlog
